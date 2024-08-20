@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 2%;
+    padding: 2%;
+    background: aquamarine;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    grid-template-rows: ;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
